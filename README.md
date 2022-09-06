@@ -1,2 +1,2 @@
-# leetcode_go
+# leetcode go version
 use go to solve leetcode problems
